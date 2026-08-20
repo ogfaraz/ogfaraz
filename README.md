@@ -95,7 +95,7 @@ Focus on NLP, Computer Vision, Deep Learning & Machine Learning
   <img height="180" src="https://streak-stats.demolab.com/?user=ogfaraz&theme=dracula" />
 </p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats-memi3.vercel.app/api/top-langs/?username=ogfaraz&langs_count=8&theme=dracula&layout=compact&v=1"/>
+  <img height="180" src="https://github-readme-stats-memi3.vercel.app/api/top-langs?username=ogfaraz&langs_count=8&theme=dracula&layout=compact&v=2"/>
 </p>
 
 <!---
