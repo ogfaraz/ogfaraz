@@ -1,28 +1,4 @@
-<h1 align="center">Faraz Ahmad Khan</h1>
-<h3 align="center">AI Engineer | Architecting Deterministic Production Systems</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faraz-on2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farazofficial02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/ogfaraz/ogfaraz/main/Resume_Faraz.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=readme" alt="Download Resume"/>
-  </a>
-</p>
-
-<p align="center">
-  Delivering production systems where correctness matters more than novelty. My work spans real-time voice agents, edge-deployed computer vision, machine learning models, and deterministic document and email automation. I own the full delivery cycle from dataset curation and model training to FastAPI microservices, CI/CD pipelines, and stakeholder-facing ownership.
-</p>
-
-<p align="center">
-  🔭 Currently building: Smart Call AI, Email Triage, and BST PO automation at Zencloud &nbsp;|&nbsp;
-  🌱 Always exploring: Coursera / DeepLearning.ai coursework &nbsp;|&nbsp;
-  💬 Ask me about: voice agents, edge CV, or deterministic pipelines
-</p>
-
+<h1 align="center">Faraz Ahmad Khan</h1> <h3 align="center">AI Engineer | Architecting Deterministic Production Systems</h3> <p align="center"> <a href="https://www.linkedin.com/in/faraz-on2/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farazofficial02@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ogfaraz/ogfaraz/blob/main/Resume_Faraz.pdf" target="_blank"> <img src="https://img.shields.io/badge/Resume-View-2EA44F?style=for-the-badge&logo=readme" alt="View Resume"/> </a> <a href="https://raw.githubusercontent.com/ogfaraz/ogfaraz/main/Resume_Faraz.pdf" download> <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/> </a> </p> <p align="center"> Delivering production systems where correctness matters more than novelty. My work spans real-time voice agents, edge-deployed computer vision, machine learning models, and deterministic document and email automation. I own the full delivery cycle from dataset curation and model training to FastAPI microservices, CI/CD pipelines, and stakeholder-facing ownership. </p> <p align="center"> 🔭 Currently building: Smart Call AI, Email Triage, and BST PO automation at Zencloud &nbsp;|&nbsp; 🌱 Always exploring: Coursera / DeepLearning.ai coursework &nbsp;|&nbsp; 💬 Ask me about: voice agents, edge CV, or deterministic pipelines </p>
 ---
 
 ### ⚙️ Core Architecture & Stack
