@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Delivering production systems where correctness matters more than novelty. My work spans real-time voice agents, edge-deployed computer vision, machine learning models, and deterministic document and email automation. I own the full delivery cycle — from dataset curation and model training to FastAPI microservices, CI/CD pipelines, and stakeholder-facing ownership.
+  Delivering production systems where correctness matters more than novelty. My work spans real-time voice agents, edge-deployed computer vision, machine learning models, and deterministic document and email automation. I own the full delivery cycle from dataset curation and model training to FastAPI microservices, CI/CD pipelines, and stakeholder-facing ownership.
 </p>
 
 <p align="center">
@@ -70,19 +70,19 @@
 
 ### 🚀 Production Deployments
 
-- **Email Triage & Auto-Response System** — Built for a UK property management firm on Microsoft Graph API, using a deterministic rules engine (not an LLM) so every classification of arrears, legal, and vulnerable-resident correspondence stays explainable and reproducible, with safety gates escalating sensitive cases to human review.
-- **BST Supplies PO Digitization** — A zero-AI, on-premise PDF-to-XML pipeline mapping purchase orders directly into EFACS ERP, matching against a 1,547-account register with ~94% automated routing and zero misroutes.
-- **Truck Driver Monitoring System (DMS)** — YOLOv11m running on Jetson Orin Nano and Orange Pi 5 edge devices, trained on a proprietary 20,000-sample dataset to reach 92% accuracy across 4 driver behavioral states.
-- **Smart Call AI** — An async FastAPI + LiveKit voice agent that takes restaurant phone/SMS orders and routes them into POS systems, cutting response latency by ~3–5s via a local "Shadow POS" architecture.
-- **Wrangle AI & Sense Stream** — Prompt-routing and cost-forecasting models (XGBoost, Prophet) and emotion/toxicity media-analysis engines (CNN, bi-LSTM), served behind scalable FastAPI endpoints.
+- **Email Triage & Auto-Response System** Built for a UK property management firm on Microsoft Graph API, using a deterministic rules engine (not an LLM) so every classification of arrears, legal, and vulnerable-resident correspondence stays explainable and reproducible, with safety gates escalating sensitive cases to human review.
+- **BST Supplies PO Digitization** A zero-AI, on-premise PDF-to-XML pipeline mapping purchase orders directly into EFACS ERP, matching against a 1,547-account register with ~94% automated routing and zero misroutes.
+- **Truck Driver Monitoring System (DMS)** YOLOv11m running on Jetson Orin Nano and Orange Pi 5 edge devices, trained on a proprietary 20,000-sample dataset to reach 92% accuracy across 4 driver behavioral states.
+- **Smart Call AI** An async FastAPI + LiveKit voice agent that takes restaurant phone/SMS orders and routes them into POS systems, cutting response latency by ~3–5s via a local "Shadow POS" architecture.
+- **Wrangle AI & Sense Stream** Prompt-routing and cost-forecasting models (XGBoost, Prophet) and emotion/toxicity media-analysis engines (CNN, bi-LSTM), served behind scalable FastAPI endpoints.
 
 ---
 
 ### 💼 Professional Trajectory
 
-- **AI Engineer @ Zencloud Technologies** *(Dec 2025 – Present)* — Leading end-to-end development of Smart Call AI, Email Triage, and BST PO automation; primary liaison for international stakeholders across the full project lifecycle.
-- **AI Intern @ Zencloud Technologies** *(Sep 2025 – Nov 2025)* — Fine-tuned LLMs and automated workflows with n8n, cutting manual operational overhead by ~65%.
-- **AI & Computer Vision Engineer Intern @ ClouxiPlexi** *(Jul 2024 – Oct 2024)* — Built YOLOv8 detection models and autonomous multi-agent systems with CrewAI, cutting task completion time by ~85%.
+- **AI Engineer @ Zencloud Technologies** *(Dec 2025 – Present)* Leading end-to-end development of Smart Call AI, Email Triage, and BST PO automation; primary liaison for international stakeholders across the full project lifecycle.
+- **AI Intern @ Zencloud Technologies** *(Sep 2025 – Nov 2025)* Fine-tuned LLMs and automated workflows with n8n, cutting manual operational overhead by ~65%.
+- **AI & Computer Vision Engineer Intern @ ClouxiPlexi** *(Jul 2024 – Oct 2024)* Built YOLOv8 detection models and autonomous multi-agent systems with CrewAI, cutting task completion time by ~85%.
 
 ---
 
@@ -102,8 +102,6 @@ Focus on NLP, Computer Vision, Deep Learning & Machine Learning
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogfaraz/ogfaraz/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-> This needs a small one-time setup — see `snake.yml` below. Until that workflow runs once, this image won't appear.
 
 ---
 
