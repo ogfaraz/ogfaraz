@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 ---
+
 **Frameworks**
 
 <p align="center">
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/CrewAI-6A5ACD?style=for-the-badge" />
 </p>
 ---
+
 **Dev Tools**
 
 <p align="center">
